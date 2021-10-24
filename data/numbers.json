@@ -1,0 +1,30 @@
+[
+  {
+    "_id": { "$oid": "6175cad4bcf4924304dc947e" },
+    "number": 1,
+    "key": "PET",
+    "recyclableType": { "$oid": "6175c718bcf4924304dc947a" },
+    "name": "polyethylene terephthalate"
+  },
+  {
+    "_id": { "$oid": "6175cad4bcf4924304dc947f" },
+    "number": 2,
+    "key": "HDPE",
+    "recyclableType": { "$oid": "6175c718bcf4924304dc947a" },
+    "name": "high density polyethylene"
+  },
+  {
+    "_id": { "$oid": "6175cad4bcf4924304dc9480" },
+    "number": 3,
+    "key": "PVC",
+    "recyclableType": { "$oid": "6175c718bcf4924304dc947a" },
+    "name": "polyvinyl chloride"
+  },
+  {
+    "_id": { "$oid": "6175cad4bcf4924304dc9481" },
+    "number": 4,
+    "key": "LDPE",
+    "recyclableType": { "$oid": "6175c718bcf4924304dc947a" },
+    "name": "low density polyethylene"
+  }
+]

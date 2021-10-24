@@ -1,0 +1,22 @@
+[
+  {
+    "_id": { "$oid": "6175c718bcf4924304dc9479" },
+    "key": "paper"
+  },
+  {
+    "_id": { "$oid": "6175c718bcf4924304dc947a" },
+    "key": "plastic"
+  },
+  {
+    "_id": { "$oid": "6175c718bcf4924304dc947b" },
+    "key": "glass"
+  },
+  {
+    "_id": { "$oid": "6175c718bcf4924304dc947c" },
+    "key": "metal"
+  },
+  {
+    "_id": { "$oid": "6175c718bcf4924304dc947d" },
+    "key": "tetraPak"
+  }
+]
